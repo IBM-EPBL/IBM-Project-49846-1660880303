@@ -1,6 +1,0 @@
-numpy
-tensorflow
-flask
-cloudant
-Werkzeug
-twilio
